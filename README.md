@@ -1,8 +1,12 @@
 # CMPT756_Materials
 # 汇集一些CMPT756(Spring 2024)的资料
 
-## 1. Course Slides
-### 就在上面那些pdf
+## 1. Course Slides and Lecture Videos
+### Course Slides 
+就在上面那些pdf
+
+### Lecture Videos
+[video link in canvas topic link](https://canvas.sfu.ca/courses/88212/discussion_topics/1894180)
 
 ## 2. Reference Books
 ### 计算机网络
